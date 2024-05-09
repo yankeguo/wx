@@ -1,4 +1,4 @@
-package wxreceive
+package wxrecv
 
 import "encoding/xml"
 
